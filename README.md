@@ -1,17 +1,6 @@
-<h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h1 align="center">Caleb Campbell</h1>
+<h3 align="center">Full Stack Web Developer at HQ</h3>
 
-- 🔭 I’m currently working on [A Social Media Site for Hobbyists I'm developing](https://dyd-app.vercel.app/)
-
-- 🌱 I’m currently learning **Socket.io and Cloud Web Hosting**
-
-- 💬 Ask me about **My favorite UI JavaScript Libraries**
-
-- 📫 How to reach me **calebcampbellcrm@gmail.com**
-
-- ⚡ Fun fact **Sometimes I wake up at 2 in the morning to watch a rocket launch**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/calebcampbell-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/calebcampbell-/" height="30" width="40" /></a>
 </p>
